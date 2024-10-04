@@ -1,0 +1,124 @@
+Output:
+
+empId       firstname       lastname        dept       salary      hiredate        active         
+----------- --------------- --------------- ---------- ----------- --------------- ---------------
+          1 john            deo             hr               50000 2020-01-15      true           
+          2 john            deo             it               60000 2019-03-10      true           
+          3 john            deo             finance          70000 2018-07-20      true           
+          4 john            deo             it               55000 2021-05-30      false          
+          5 john            deo             hr               48000 2021-09-12      true           
+          6 john            deo             finance          72000 2020-11-05      false          
+          7 john            deo             it               65000 2019-06-25      true           
+          8 john            deo             finance          68000 2017-02-18      true           
+          9 john            deo             hr               53000 2018-12-05      true           
+         10 john            deo             it               62000 2016-10-30      false
+
+          
+empId       firstname       lastname        dept       salary      hiredate        active         
+----------- --------------- --------------- ---------- ----------- --------------- ---------------
+          2 john            deo             it               60000 2019-03-10      true           
+          4 john            deo             it               55000 2021-05-30      false          
+          7 john            deo             it               65000 2019-06-25      true           
+         10 john            deo             it               62000 2016-10-30      false          
+
+
+dept      
+----------
+hr        
+it        
+finance   
+it        
+hr        
+finance   
+it        
+finance   
+hr        
+it        
+
+
+empId       firstname       lastname        dept       salary      hiredate        active         
+----------- --------------- --------------- ---------- ----------- --------------- ---------------
+          3 john            deo             finance          70000 2018-07-20      true           
+          6 john            deo             finance          72000 2020-11-05      false          
+          7 john            deo             it               65000 2019-06-25      true           
+          8 john            deo             finance          68000 2017-02-18      true           
+         10 john            deo             it               62000 2016-10-30      false          
+
+
+empId       firstname       lastname        dept       salary      hiredate        active         
+----------- --------------- --------------- ---------- ----------- --------------- ---------------
+          5 john            deo             hr               48000 2021-09-12      true           
+          4 john            deo             it               55000 2021-05-30      false          
+          6 john            deo             finance          72000 2020-11-05      false          
+          1 john            deo             hr               50000 2020-01-15      true           
+          7 john            deo             it               65000 2019-06-25      true           
+          2 john            deo             it               60000 2019-03-10      true           
+          9 john            deo             hr               53000 2018-12-05      true           
+          3 john            deo             finance          70000 2018-07-20      true           
+          8 john            deo             finance          68000 2017-02-18      true           
+         10 john            deo             it               62000 2016-10-30      false          
+
+
+empId       firstname       lastname        dept       salary      hiredate        active         
+----------- --------------- --------------- ---------- ----------- --------------- ---------------
+          3 john            deo             finance          70000 2018-07-20      true           
+          8 john            deo             finance          68000 2017-02-18      true           
+
+
+empId       firstname       lastname        dept       salary      hiredate        active         
+----------- --------------- --------------- ---------- ----------- --------------- ---------------
+          1 john            deo             hr               50000 2020-01-15      true           
+          5 john            deo             hr               48000 2021-09-12      true           
+          9 john            deo             hr               53000 2018-12-05      true           
+
+
+empId       firstname       lastname        dept       salary      hiredate        active         
+----------- --------------- --------------- ---------- ----------- --------------- ---------------
+          1 john            deo             hr               50000 2020-01-15      true           
+          3 john            deo             finance          70000 2018-07-20      true           
+          5 john            deo             hr               48000 2021-09-12      true           
+          6 john            deo             finance          72000 2020-11-05      false          
+          8 john            deo             finance          68000 2017-02-18      true           
+          9 john            deo             hr               53000 2018-12-05      true           
+
+
+empId       firstname       lastname        dept       salary      hiredate        active         
+----------- --------------- --------------- ---------- ----------- --------------- ---------------
+          1 john            deo             hr               50000 2020-01-15      true           
+          2 john            deo             it               60000 2019-03-10      true           
+          3 john            deo             finance          70000 2018-07-20      true           
+          4 john            deo             it               55000 2021-05-30      false          
+          5 john            deo             hr               48000 2021-09-12      true           
+          6 john            deo             finance          72000 2020-11-05      false          
+          7 john            deo             it               65000 2019-06-25      true           
+          8 john            deo             finance          68000 2017-02-18      true           
+          9 john            deo             hr               53000 2018-12-05      true           
+         10 john            deo             it               62000 2016-10-30      false          
+         11 ravi            teja            it               60000 2024-06-17      true           
+
+
+empId       firstname       lastname        dept       salary      hiredate        active         
+----------- --------------- --------------- ---------- ----------- --------------- ---------------
+          1 john            deo             hr               55000 2020-01-15      true           
+          2 john            deo             it               60000 2019-03-10      true           
+          3 john            deo             finance          70000 2018-07-20      true           
+          4 john            deo             it               55000 2021-05-30      false          
+          5 john            deo             hr               55000 2021-09-12      true           
+          6 john            deo             finance          72000 2020-11-05      false          
+          7 john            deo             it               65000 2019-06-25      true           
+          8 john            deo             finance          68000 2017-02-18      true           
+          9 john            deo             hr               55000 2018-12-05      true           
+         10 john            deo             it               62000 2016-10-30      false          
+         11 ravi            teja            it               60000 2024-06-17      true           
+
+
+empId       firstname       lastname        dept       salary      hiredate        active         
+----------- --------------- --------------- ---------- ----------- --------------- ---------------
+          1 john            deo             hr               55000 2020-01-15      true           
+          2 john            deo             it               60000 2019-03-10      true           
+          3 john            deo             finance          70000 2018-07-20      true           
+          5 john            deo             hr               55000 2021-09-12      true           
+          7 john            deo             it               65000 2019-06-25      true           
+          8 john            deo             finance          68000 2017-02-18      true           
+          9 john            deo             hr               55000 2018-12-05      true           
+         11 ravi            teja            it               60000 2024-06-17      true           
